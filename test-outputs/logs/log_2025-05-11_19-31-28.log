@@ -1,0 +1,20 @@
+[INFO] 11-05-2025 19:31:29 [main] [DreiverFactory.DriverFactory.setupDriver(DriverFactory.java:31)] - WebDriver initialized: EdgeDriver: MicrosoftEdge on windows (2868160199cea01345f6232349488d86)
+[INFO] 11-05-2025 19:31:29 [main] [tests.T02_landingTest.setup(T02_landingTest.java:29)] - Edge driver is open 
+[INFO] 11-05-2025 19:31:30 [main] [tests.T02_landingTest.setup(T02_landingTest.java:31)] - Pge redirected to URl
+[ERROR] 11-05-2025 19:31:41 [main] [utilities.Utility.takeFullScreenshot(Utility.java:90)] - no such element: Unable to locate element: {"method":"css selector","selector":".shopping_cart_badge"}
+  (Session info: MicrosoftEdge=136.0.3240.64)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [2868160199cea01345f6232349488d86, findElement {using=class name, value=shopping_cart_badge}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:7038}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\vampi\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:7038/devtool..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2868160199cea01345f6232349488d86
+[INFO] 11-05-2025 19:31:42 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:10)] - Test CaseaddingRandomNumbersStarted
+[INFO] 11-05-2025 19:31:43 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:66)] - random Number :1
+[INFO] 11-05-2025 19:31:43 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:66)] - random Number :3
+[INFO] 11-05-2025 19:31:43 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:66)] - random Number :6
+[INFO] 11-05-2025 19:31:44 [main] [pages.P02_landingPage.getNumberOFProductOnCartItem(P02_landingPage.java:42)] - get number on cart:3
+[INFO] 11-05-2025 19:31:44 [main] [pages.P02_landingPage.getNumberOfSelectProducts(P02_landingPage.java:55)] - selected products:3
+[INFO] 11-05-2025 19:31:47 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:23)] - Test CaseaddingRandomNumbersfailed
+[ERROR] 11-05-2025 19:31:49 [main] [utilities.Utility.takeFullScreenshot(Utility.java:90)] - Cannot invoke "org.openqa.selenium.JavascriptExecutor.executeScript(String, Object[])" because "js" is null

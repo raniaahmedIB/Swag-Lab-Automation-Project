@@ -1,0 +1,7 @@
+[INFO] 14-05-2025 15:53:56 [main] [DreiverFactory.DriverFactory.setupDriver(DriverFactory.java:31)] - WebDriver initialized: EdgeDriver: MicrosoftEdge on windows (c22fa8f48c7e85346e9ffd1d1d16cd68)
+[INFO] 14-05-2025 15:53:56 [main] [tests.T06_finshingOrderTest.setup(T06_finshingOrderTest.java:35)] - Edge driver is open 
+[INFO] 14-05-2025 15:53:56 [main] [tests.T06_finshingOrderTest.setup(T06_finshingOrderTest.java:37)] - Pge redirected to URl
+[INFO] 14-05-2025 15:53:56 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:10)] - Test CasecheckoutFinshingOrderWithAllProductsTCStarted
+[INFO] 14-05-2025 15:53:57 [main] [pages.P02_landingPage.addAllProductToCart(P02_landingPage.java:33)] - number of all products:6
+[INFO] 14-05-2025 15:53:58 [main] [tests.T06_finshingOrderTest.checkoutFinshingOrderWithAllProductsTC(T06_finshingOrderTest.java:72)] - fTest-2025-05-14-3-53-52-PM lTest-2025-05-14-3-53-52-PM 35133
+[INFO] 14-05-2025 15:53:58 [main] [Listeners.iTestResultListenerClass.onTestSuccess(iTestResultListenerClass.java:14)] - Test CasecheckoutFinshingOrderWithAllProductsTCpassed

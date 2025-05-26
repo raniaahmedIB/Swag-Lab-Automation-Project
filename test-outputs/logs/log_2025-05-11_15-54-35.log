@@ -1,0 +1,6 @@
+[INFO] 11-05-2025 15:54:36 [main] [DreiverFactory.DriverFactory.setupDriver(DriverFactory.java:31)] - WebDriver initialized: EdgeDriver: MicrosoftEdge on windows (a029029c16be6d5f230af24c40176e8b)
+[INFO] 11-05-2025 15:54:36 [main] [tests.T02_landingTest.setup(T02_landingTest.java:25)] - Edge driver is open 
+[INFO] 11-05-2025 15:54:38 [main] [tests.T02_landingTest.setup(T02_landingTest.java:27)] - Pge redirected to URl
+[INFO] 11-05-2025 15:54:41 [main] [pages.P02_landingPage.addAllProductToCart(P02_landingPage.java:27)] - number of all products:6
+[INFO] 11-05-2025 15:54:43 [main] [pages.P02_landingPage.getNumberOFProductOnCartItem(P02_landingPage.java:38)] - get number on cart:6
+[INFO] 11-05-2025 15:54:44 [main] [pages.P02_landingPage.getNumberOfSelectProducts(P02_landingPage.java:51)] - selected products:6

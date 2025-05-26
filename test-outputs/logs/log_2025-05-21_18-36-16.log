@@ -1,0 +1,5 @@
+[INFO] 21-05-2025 18:36:16 [main] [DreiverFactory.DriverFactory.setupDriver(DriverFactory.java:31)] - WebDriver initialized: EdgeDriver: MicrosoftEdge on windows (da77211f71b9bf7b177f504595bfd6c4)
+[INFO] 21-05-2025 18:36:16 [main] [tests.T01_LoginTest.setup(T01_LoginTest.java:28)] - Edge driver is open 
+[INFO] 21-05-2025 18:36:17 [main] [tests.T01_LoginTest.setup(T01_LoginTest.java:30)] - Pge redirected to URl
+[INFO] 21-05-2025 18:36:17 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:10)] - Test CasevalidloginTestStarted
+[INFO] 21-05-2025 18:36:18 [main] [Listeners.iTestResultListenerClass.onTestSuccess(iTestResultListenerClass.java:14)] - Test CasevalidloginTestpassed

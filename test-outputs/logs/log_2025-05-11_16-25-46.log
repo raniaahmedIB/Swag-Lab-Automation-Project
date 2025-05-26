@@ -1,0 +1,8 @@
+[INFO] 11-05-2025 16:25:46 [main] [DreiverFactory.DriverFactory.setupDriver(DriverFactory.java:31)] - WebDriver initialized: EdgeDriver: MicrosoftEdge on windows (f8cabe8d557d03f9e87c0117502dd774)
+[INFO] 11-05-2025 16:25:47 [main] [tests.T02_landingTest.setup(T02_landingTest.java:30)] - Edge driver is open 
+[INFO] 11-05-2025 16:25:48 [main] [tests.T02_landingTest.setup(T02_landingTest.java:32)] - Pge redirected to URl
+[INFO] 11-05-2025 16:25:48 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:10)] - Test CasecheckingNumberOfSelectProductsStarted
+[INFO] 11-05-2025 16:25:49 [main] [pages.P02_landingPage.addAllProductToCart(P02_landingPage.java:27)] - number of all products:6
+[INFO] 11-05-2025 16:25:51 [main] [pages.P02_landingPage.getNumberOFProductOnCartItem(P02_landingPage.java:38)] - get number on cart:6
+[INFO] 11-05-2025 16:25:51 [main] [pages.P02_landingPage.getNumberOfSelectProducts(P02_landingPage.java:51)] - selected products:6
+[INFO] 11-05-2025 16:25:51 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:22)] - Test CasecheckingNumberOfSelectProductsfailed

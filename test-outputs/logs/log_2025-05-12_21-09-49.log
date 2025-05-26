@@ -1,0 +1,20 @@
+[INFO] 12-05-2025 21:09:49 [main] [DreiverFactory.DriverFactory.setupDriver(DriverFactory.java:31)] - WebDriver initialized: EdgeDriver: MicrosoftEdge on windows (302de7ef64b3940d6191a3c4e87bd530)
+[INFO] 12-05-2025 21:09:49 [main] [tests.T03_cartTest.setup(T03_cartTest.java:30)] - Edge driver is open 
+[INFO] 12-05-2025 21:09:50 [main] [tests.T03_cartTest.setup(T03_cartTest.java:32)] - Pge redirected to URl
+[INFO] 12-05-2025 21:09:50 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:10)] - Test CasecomparingPricingStarted
+[INFO] 12-05-2025 21:09:50 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:71)] - random Number :1
+[INFO] 12-05-2025 21:09:51 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:71)] - random Number :2
+[INFO] 12-05-2025 21:09:51 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:71)] - random Number :3
+[ERROR] 12-05-2025 21:10:01 [main] [pages.P02_landingPage.getTotalPriceOfSelectedProducts(P02_landingPage.java:107)] - Expected condition failed: waiting for visibility of element located by By.xpath: //button[.="Remove"] //preceding-sibling::div[@class='inventory_item_price'][0] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:18836}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\vampi\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:18836/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 302de7ef64b3940d6191a3c4e87bd530
+[ERROR] 12-05-2025 21:10:11 [main] [pages.P03_cartPage.getTotalPrice(P03_cartPage.java:31)] - Expected condition failed: waiting for visibility of element located by By.xpath: //button[.="Remove"] //preceding-sibling::div[@class='inventory_item_price'][0] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:18836}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\vampi\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:18836/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 302de7ef64b3940d6191a3c4e87bd530
+[INFO] 12-05-2025 21:10:11 [main] [Listeners.iTestResultListenerClass.onTestSuccess(iTestResultListenerClass.java:14)] - Test CasecomparingPricingpassed

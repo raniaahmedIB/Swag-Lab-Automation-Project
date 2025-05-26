@@ -1,0 +1,4 @@
+[INFO] 10-05-2025 16:29:26 [main] [tests.T01_LoginTest.setup(T01_LoginTest.java:28)] - Edge driver is open 
+[INFO] 10-05-2025 16:29:28 [main] [tests.T01_LoginTest.setup(T01_LoginTest.java:30)] - Pge redirected to URl
+[INFO] 10-05-2025 16:29:29 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:10)] - Test CasevalidloginTestStarted
+[INFO] 10-05-2025 16:29:32 [main] [Listeners.iTestResultListenerClass.onTestSuccess(iTestResultListenerClass.java:14)] - Test CasevalidloginTestpassed

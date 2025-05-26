@@ -1,0 +1,97 @@
+[INFO] 22-05-2025 22:56:34 [main] [tests.T01_LoginTest.setup(T01_LoginTest.java:28)] - null
+[INFO] 22-05-2025 22:56:36 [main] [DreiverFactory.DriverFactory.setupDriver(DriverFactory.java:31)] - WebDriver initialized: EdgeDriver: MicrosoftEdge on windows (2daf1462112d40282f5806decb53ffd5)
+[INFO] 22-05-2025 22:56:36 [main] [tests.T01_LoginTest.setup(T01_LoginTest.java:30)] - Edge driver is open 
+[INFO] 22-05-2025 22:56:39 [main] [tests.T01_LoginTest.setup(T01_LoginTest.java:32)] - Pge redirected to URl
+[INFO] 22-05-2025 22:56:39 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:10)] - Test CasevalidloginTestStarted
+[INFO] 22-05-2025 22:56:39 [main] [Listeners.iTestResultListenerClass.onTestSuccess(iTestResultListenerClass.java:14)] - Test CasevalidloginTestpassed
+[INFO] 22-05-2025 22:56:41 [main] [tests.T02_landingTest.Login(T02_landingTest.java:30)] - null
+[INFO] 22-05-2025 22:56:42 [main] [DreiverFactory.DriverFactory.setupDriver(DriverFactory.java:31)] - WebDriver initialized: EdgeDriver: MicrosoftEdge on windows (600cd2f0fd93754b5d455bac43d9dd9b)
+[INFO] 22-05-2025 22:56:42 [main] [tests.T02_landingTest.Login(T02_landingTest.java:32)] - Edge driver is open 
+[INFO] 22-05-2025 22:56:44 [main] [tests.T02_landingTest.Login(T02_landingTest.java:34)] - Pge redirected to URl
+[INFO] 22-05-2025 22:56:45 [main] [tests.T02_landingTest.setup(T02_landingTest.java:48)] - null
+[INFO] 22-05-2025 22:56:47 [main] [DreiverFactory.DriverFactory.setupDriver(DriverFactory.java:31)] - WebDriver initialized: EdgeDriver: MicrosoftEdge on windows (da131612e827204ab8db1d15c2d128e3)
+[INFO] 22-05-2025 22:56:47 [main] [tests.T02_landingTest.setup(T02_landingTest.java:50)] - Edge driver is open 
+[INFO] 22-05-2025 22:56:48 [main] [tests.T02_landingTest.setup(T02_landingTest.java:52)] - Pge redirected to URl
+[INFO] 22-05-2025 22:56:48 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:10)] - Test CaseaddingRandomNumbersStarted
+[INFO] 22-05-2025 22:56:48 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:68)] - random Number :1
+[INFO] 22-05-2025 22:56:52 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:68)] - random Number :2
+[INFO] 22-05-2025 22:56:52 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:68)] - random Number :6
+[INFO] 22-05-2025 22:56:52 [main] [pages.P02_landingPage.getNumberOFProductOnCartItem(P02_landingPage.java:44)] - get number on cart:3
+[INFO] 22-05-2025 22:56:52 [main] [pages.P02_landingPage.getNumberOfSelectProducts(P02_landingPage.java:57)] - selected products:3
+[INFO] 22-05-2025 22:56:52 [main] [Listeners.iTestResultListenerClass.onTestSuccess(iTestResultListenerClass.java:14)] - Test CaseaddingRandomNumberspassed
+[INFO] 22-05-2025 22:56:53 [main] [tests.T02_landingTest.setup(T02_landingTest.java:48)] - null
+[INFO] 22-05-2025 22:56:55 [main] [DreiverFactory.DriverFactory.setupDriver(DriverFactory.java:31)] - WebDriver initialized: EdgeDriver: MicrosoftEdge on windows (f0d2a1cc91c0e24196af6fca57dca6fb)
+[INFO] 22-05-2025 22:56:55 [main] [tests.T02_landingTest.setup(T02_landingTest.java:50)] - Edge driver is open 
+[INFO] 22-05-2025 22:56:55 [main] [tests.T02_landingTest.setup(T02_landingTest.java:52)] - Pge redirected to URl
+[INFO] 22-05-2025 22:56:56 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:10)] - Test CasecheckingNumberOfSelectProductsStarted
+[INFO] 22-05-2025 22:56:59 [main] [pages.P02_landingPage.addAllProductToCart(P02_landingPage.java:33)] - number of all products:6
+[INFO] 22-05-2025 22:57:00 [main] [pages.P02_landingPage.getNumberOFProductOnCartItem(P02_landingPage.java:44)] - get number on cart:6
+[INFO] 22-05-2025 22:57:00 [main] [pages.P02_landingPage.getNumberOfSelectProducts(P02_landingPage.java:57)] - selected products:6
+[INFO] 22-05-2025 22:57:00 [main] [Listeners.iTestResultListenerClass.onTestSuccess(iTestResultListenerClass.java:14)] - Test CasecheckingNumberOfSelectProductspassed
+[INFO] 22-05-2025 22:57:01 [main] [tests.T02_landingTest.setup(T02_landingTest.java:48)] - null
+[INFO] 22-05-2025 22:57:02 [main] [DreiverFactory.DriverFactory.setupDriver(DriverFactory.java:31)] - WebDriver initialized: EdgeDriver: MicrosoftEdge on windows (5c6eb045579c56512a34d113a9bc48a0)
+[INFO] 22-05-2025 22:57:02 [main] [tests.T02_landingTest.setup(T02_landingTest.java:50)] - Edge driver is open 
+[INFO] 22-05-2025 22:57:02 [main] [tests.T02_landingTest.setup(T02_landingTest.java:52)] - Pge redirected to URl
+[INFO] 22-05-2025 22:57:06 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:10)] - Test CaseclickOnCartIconStarted
+[INFO] 22-05-2025 22:57:06 [main] [Listeners.iTestResultListenerClass.onTestSuccess(iTestResultListenerClass.java:14)] - Test CaseclickOnCartIconpassed
+[INFO] 22-05-2025 22:57:07 [main] [tests.T03_cartTest.setup(T03_cartTest.java:30)] - null
+[INFO] 22-05-2025 22:57:09 [main] [DreiverFactory.DriverFactory.setupDriver(DriverFactory.java:31)] - WebDriver initialized: EdgeDriver: MicrosoftEdge on windows (da5636d36e264fc68b7e01131006a150)
+[INFO] 22-05-2025 22:57:09 [main] [tests.T03_cartTest.setup(T03_cartTest.java:32)] - Edge driver is open 
+[INFO] 22-05-2025 22:57:09 [main] [tests.T03_cartTest.setup(T03_cartTest.java:34)] - Pge redirected to URl
+[INFO] 22-05-2025 22:57:09 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:10)] - Test CasecomparingPricingStarted
+[INFO] 22-05-2025 22:57:10 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:68)] - random Number :1
+[INFO] 22-05-2025 22:57:10 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:68)] - random Number :3
+[INFO] 22-05-2025 22:57:10 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:68)] - random Number :6
+[INFO] 22-05-2025 22:57:10 [main] [pages.P02_landingPage.getTotalPriceOfSelectedProducts(P02_landingPage.java:92)] - total price:61.97
+[INFO] 22-05-2025 22:57:11 [main] [pages.P03_cartPage.getTotalPrice(P03_cartPage.java:29)] - total price:61.97
+[INFO] 22-05-2025 22:57:11 [main] [Listeners.iTestResultListenerClass.onTestSuccess(iTestResultListenerClass.java:14)] - Test CasecomparingPricingpassed
+[INFO] 22-05-2025 22:57:11 [main] [tests.T04_checkoutTest.setup(T04_checkoutTest.java:34)] - null
+[INFO] 22-05-2025 22:57:13 [main] [DreiverFactory.DriverFactory.setupDriver(DriverFactory.java:31)] - WebDriver initialized: EdgeDriver: MicrosoftEdge on windows (60a31c482e95bb90d24a5014c4ff1c77)
+[INFO] 22-05-2025 22:57:13 [main] [tests.T04_checkoutTest.setup(T04_checkoutTest.java:36)] - Edge driver is open 
+[INFO] 22-05-2025 22:57:14 [main] [tests.T04_checkoutTest.setup(T04_checkoutTest.java:38)] - Pge redirected to URl
+[INFO] 22-05-2025 22:57:14 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:10)] - Test CasecheckoutOneTCStarted
+[INFO] 22-05-2025 22:57:15 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:68)] - random Number :2
+[INFO] 22-05-2025 22:57:15 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:68)] - random Number :3
+[INFO] 22-05-2025 22:57:15 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:68)] - random Number :4
+[INFO] 22-05-2025 22:57:16 [main] [tests.T04_checkoutTest.checkoutOneTC(T04_checkoutTest.java:53)] - fTest-2025-05-22-10-56-32-PM lTest-2025-05-22-10-56-32-PM 05137
+[INFO] 22-05-2025 22:57:16 [main] [Listeners.iTestResultListenerClass.onTestSuccess(iTestResultListenerClass.java:14)] - Test CasecheckoutOneTCpassed
+[INFO] 22-05-2025 22:57:16 [main] [tests.T05_overViewTest.setup(T05_overViewTest.java:35)] - null
+[INFO] 22-05-2025 22:57:17 [main] [DreiverFactory.DriverFactory.setupDriver(DriverFactory.java:31)] - WebDriver initialized: EdgeDriver: MicrosoftEdge on windows (546aed2b038e8a9cd135fd9eeb15b431)
+[INFO] 22-05-2025 22:57:17 [main] [tests.T05_overViewTest.setup(T05_overViewTest.java:37)] - Edge driver is open 
+[INFO] 22-05-2025 22:57:18 [main] [tests.T05_overViewTest.setup(T05_overViewTest.java:39)] - Pge redirected to URl
+[INFO] 22-05-2025 22:57:19 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:10)] - Test CasecheckoutAllProductsTCStarted
+[INFO] 22-05-2025 22:57:19 [main] [pages.P02_landingPage.addAllProductToCart(P02_landingPage.java:33)] - number of all products:6
+[INFO] 22-05-2025 22:57:20 [main] [tests.T05_overViewTest.checkoutAllProductsTC(T05_overViewTest.java:70)] - fTest-2025-05-22-10-56-32-PM lTest-2025-05-22-10-56-32-PM 11714
+[INFO] 22-05-2025 22:57:20 [main] [pages.P05_overViewPage.calculatedTotalPrice(P05_overViewPage.java:35)] - calculated total price :140.34
+[INFO] 22-05-2025 22:57:20 [main] [pages.P05_overViewPage.getTotal(P05_overViewPage.java:29)] - actual total price :140.34
+[INFO] 22-05-2025 22:57:20 [main] [Listeners.iTestResultListenerClass.onTestSuccess(iTestResultListenerClass.java:14)] - Test CasecheckoutAllProductsTCpassed
+[INFO] 22-05-2025 22:57:22 [main] [tests.T05_overViewTest.setup(T05_overViewTest.java:35)] - null
+[INFO] 22-05-2025 22:57:23 [main] [DreiverFactory.DriverFactory.setupDriver(DriverFactory.java:31)] - WebDriver initialized: EdgeDriver: MicrosoftEdge on windows (2c9827eeadf3ea077f6162f4116f8042)
+[INFO] 22-05-2025 22:57:23 [main] [tests.T05_overViewTest.setup(T05_overViewTest.java:37)] - Edge driver is open 
+[INFO] 22-05-2025 22:57:23 [main] [tests.T05_overViewTest.setup(T05_overViewTest.java:39)] - Pge redirected to URl
+[INFO] 22-05-2025 22:57:23 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:10)] - Test CasecheckoutTwoTCStarted
+[INFO] 22-05-2025 22:57:24 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:68)] - random Number :2
+[INFO] 22-05-2025 22:57:25 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:68)] - random Number :4
+[INFO] 22-05-2025 22:57:25 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:68)] - random Number :6
+[INFO] 22-05-2025 22:57:25 [main] [tests.T05_overViewTest.checkoutTwoTC(T05_overViewTest.java:54)] - fTest-2025-05-22-10-56-32-PM lTest-2025-05-22-10-56-32-PM 11714
+[INFO] 22-05-2025 22:57:25 [main] [pages.P05_overViewPage.calculatedTotalPrice(P05_overViewPage.java:35)] - calculated total price :82.05
+[INFO] 22-05-2025 22:57:26 [main] [pages.P05_overViewPage.getTotal(P05_overViewPage.java:29)] - actual total price :82.05
+[INFO] 22-05-2025 22:57:26 [main] [Listeners.iTestResultListenerClass.onTestSuccess(iTestResultListenerClass.java:14)] - Test CasecheckoutTwoTCpassed
+[INFO] 22-05-2025 22:57:27 [main] [tests.T06_finshingOrderTest.setup(T06_finshingOrderTest.java:35)] - null
+[INFO] 22-05-2025 22:57:28 [main] [DreiverFactory.DriverFactory.setupDriver(DriverFactory.java:31)] - WebDriver initialized: EdgeDriver: MicrosoftEdge on windows (484bc52ecfea05de331fe0869f68678a)
+[INFO] 22-05-2025 22:57:28 [main] [tests.T06_finshingOrderTest.setup(T06_finshingOrderTest.java:37)] - Edge driver is open 
+[INFO] 22-05-2025 22:57:29 [main] [tests.T06_finshingOrderTest.setup(T06_finshingOrderTest.java:39)] - Pge redirected to URl
+[INFO] 22-05-2025 22:57:29 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:10)] - Test CasecheckThankMessageOrderStarted
+[INFO] 22-05-2025 22:57:30 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:68)] - random Number :4
+[INFO] 22-05-2025 22:57:30 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:68)] - random Number :5
+[INFO] 22-05-2025 22:57:30 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:68)] - random Number :6
+[INFO] 22-05-2025 22:57:31 [main] [tests.T06_finshingOrderTest.checkThankMessageOrder(T06_finshingOrderTest.java:56)] - fTest-2025-05-22-10-56-32-PM lTest-2025-05-22-10-56-32-PM 19723
+[INFO] 22-05-2025 22:57:31 [main] [Listeners.iTestResultListenerClass.onTestSuccess(iTestResultListenerClass.java:14)] - Test CasecheckThankMessageOrderpassed
+[INFO] 22-05-2025 22:57:32 [main] [tests.T06_finshingOrderTest.setup(T06_finshingOrderTest.java:35)] - null
+[INFO] 22-05-2025 22:57:33 [main] [DreiverFactory.DriverFactory.setupDriver(DriverFactory.java:31)] - WebDriver initialized: EdgeDriver: MicrosoftEdge on windows (4ffa1d6693948817b430664914c4fbe7)
+[INFO] 22-05-2025 22:57:33 [main] [tests.T06_finshingOrderTest.setup(T06_finshingOrderTest.java:37)] - Edge driver is open 
+[INFO] 22-05-2025 22:57:35 [main] [tests.T06_finshingOrderTest.setup(T06_finshingOrderTest.java:39)] - Pge redirected to URl
+[INFO] 22-05-2025 22:57:35 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:10)] - Test CasecheckoutFinshingOrderWithAllProductsTCStarted
+[INFO] 22-05-2025 22:57:36 [main] [pages.P02_landingPage.addAllProductToCart(P02_landingPage.java:33)] - number of all products:6
+[INFO] 22-05-2025 22:57:37 [main] [tests.T06_finshingOrderTest.checkoutFinshingOrderWithAllProductsTC(T06_finshingOrderTest.java:74)] - fTest-2025-05-22-10-56-32-PM lTest-2025-05-22-10-56-32-PM 19723
+[INFO] 22-05-2025 22:57:37 [main] [Listeners.iTestResultListenerClass.onTestSuccess(iTestResultListenerClass.java:14)] - Test CasecheckoutFinshingOrderWithAllProductsTCpassed

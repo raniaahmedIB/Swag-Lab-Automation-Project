@@ -1,0 +1,9 @@
+[INFO] 14-05-2025 15:52:50 [main] [DreiverFactory.DriverFactory.setupDriver(DriverFactory.java:31)] - WebDriver initialized: EdgeDriver: MicrosoftEdge on windows (741bb50b6b3b7b51bfd3ea562f825d8d)
+[INFO] 14-05-2025 15:52:50 [main] [tests.T06_finshingOrderTest.setup(T06_finshingOrderTest.java:36)] - Edge driver is open 
+[INFO] 14-05-2025 15:52:51 [main] [tests.T06_finshingOrderTest.setup(T06_finshingOrderTest.java:38)] - Pge redirected to URl
+[INFO] 14-05-2025 15:52:51 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:10)] - Test CasecheckoutFinshingOrderWithAllProductsTCStarted
+[INFO] 14-05-2025 15:52:52 [main] [pages.P02_landingPage.addAllProductToCart(P02_landingPage.java:33)] - number of all products:6
+[INFO] 14-05-2025 15:52:53 [main] [tests.T06_finshingOrderTest.checkoutFinshingOrderWithAllProductsTC(T06_finshingOrderTest.java:71)] - fTest-2025-05-14-3-52-46-PM lTest-2025-05-14-3-52-46-PM 62789
+[INFO] 14-05-2025 15:52:53 [main] [pages.P05_overViewPage.calculatedTotalPrice(P05_overViewPage.java:35)] - calculated total price :140.34
+[INFO] 14-05-2025 15:52:54 [main] [pages.P05_overViewPage.getTotal(P05_overViewPage.java:29)] - actual total price :140.34
+[INFO] 14-05-2025 15:52:54 [main] [Listeners.iTestResultListenerClass.onTestSuccess(iTestResultListenerClass.java:14)] - Test CasecheckoutFinshingOrderWithAllProductsTCpassed

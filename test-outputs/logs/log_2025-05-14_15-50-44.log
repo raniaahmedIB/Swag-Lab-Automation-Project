@@ -1,0 +1,9 @@
+[INFO] 14-05-2025 15:50:44 [main] [DreiverFactory.DriverFactory.setupDriver(DriverFactory.java:31)] - WebDriver initialized: EdgeDriver: MicrosoftEdge on windows (b044f88ba79aec65452b4e4b158c4715)
+[INFO] 14-05-2025 15:50:44 [main] [tests.T06_finshingOrderTest.setup(T06_finshingOrderTest.java:36)] - Edge driver is open 
+[INFO] 14-05-2025 15:50:45 [main] [tests.T06_finshingOrderTest.setup(T06_finshingOrderTest.java:38)] - Pge redirected to URl
+[INFO] 14-05-2025 15:50:45 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:10)] - Test CasecheckoutTwoTCStarted
+[INFO] 14-05-2025 15:50:45 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:68)] - random Number :1
+[INFO] 14-05-2025 15:50:45 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:68)] - random Number :2
+[INFO] 14-05-2025 15:50:45 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:68)] - random Number :3
+[INFO] 14-05-2025 15:50:46 [main] [tests.T06_finshingOrderTest.checkoutTwoTC(T06_finshingOrderTest.java:55)] - fTest-2025-05-14-3-50-40-PM lTest-2025-05-14-3-50-40-PM 40456
+[INFO] 14-05-2025 15:50:46 [main] [Listeners.iTestResultListenerClass.onTestSuccess(iTestResultListenerClass.java:14)] - Test CasecheckoutTwoTCpassed

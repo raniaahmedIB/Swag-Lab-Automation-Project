@@ -1,0 +1,10 @@
+[INFO] 13-05-2025 13:51:11 [main] [DreiverFactory.DriverFactory.setupDriver(DriverFactory.java:31)] - WebDriver initialized: EdgeDriver: MicrosoftEdge on windows (406b26040cbfdc6f93ff5b233347f50b)
+[INFO] 13-05-2025 13:51:11 [main] [tests.T02_landingTest.setup(T02_landingTest.java:29)] - Edge driver is open 
+[INFO] 13-05-2025 13:51:14 [main] [tests.T02_landingTest.setup(T02_landingTest.java:31)] - Pge redirected to URl
+[INFO] 13-05-2025 13:51:15 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:10)] - Test CaseaddingRandomNumbersStarted
+[INFO] 13-05-2025 13:51:18 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:71)] - random Number :1
+[INFO] 13-05-2025 13:51:19 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:71)] - random Number :2
+[INFO] 13-05-2025 13:51:19 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:71)] - random Number :6
+[INFO] 13-05-2025 13:51:20 [main] [pages.P02_landingPage.getNumberOFProductOnCartItem(P02_landingPage.java:47)] - get number on cart:3
+[INFO] 13-05-2025 13:51:21 [main] [pages.P02_landingPage.getNumberOfSelectProducts(P02_landingPage.java:60)] - selected products:3
+[INFO] 13-05-2025 13:51:21 [main] [Listeners.iTestResultListenerClass.onTestSuccess(iTestResultListenerClass.java:14)] - Test CaseaddingRandomNumberspassed

@@ -1,0 +1,11 @@
+[INFO] 13-05-2025 20:48:59 [main] [DreiverFactory.DriverFactory.setupDriver(DriverFactory.java:31)] - WebDriver initialized: EdgeDriver: MicrosoftEdge on windows (a3e24654f89070ff46be5fbac90f3059)
+[INFO] 13-05-2025 20:48:59 [main] [tests.T05_overViewTest.setup(T05_overViewTest.java:35)] - Edge driver is open 
+[INFO] 13-05-2025 20:49:00 [main] [tests.T05_overViewTest.setup(T05_overViewTest.java:37)] - Pge redirected to URl
+[INFO] 13-05-2025 20:49:00 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:10)] - Test CasecheckoutTwoTCStarted
+[INFO] 13-05-2025 20:49:00 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:68)] - random Number :1
+[INFO] 13-05-2025 20:49:01 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:68)] - random Number :2
+[INFO] 13-05-2025 20:49:01 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:68)] - random Number :6
+[INFO] 13-05-2025 20:49:02 [main] [tests.T05_overViewTest.checkoutTwoTC(T05_overViewTest.java:52)] - fTest-2025-05-13-8-48-55-PM lTest-2025-05-13-8-48-55-PM 88867
+[INFO] 13-05-2025 20:49:02 [main] [pages.P05_overViewPage.calculatedTotalPrice(P05_overViewPage.java:35)] - calculated total price :60.45
+[INFO] 13-05-2025 20:49:02 [main] [pages.P05_overViewPage.getTotal(P05_overViewPage.java:29)] - actual total price :60.45
+[INFO] 13-05-2025 20:49:02 [main] [Listeners.iTestResultListenerClass.onTestSuccess(iTestResultListenerClass.java:14)] - Test CasecheckoutTwoTCpassed

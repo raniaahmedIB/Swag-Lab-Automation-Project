@@ -1,0 +1,6 @@
+[INFO] 24-05-2025 15:15:12 [main] [tests.T01_LoginTest.setup(T01_LoginTest.java:28)] - null
+[INFO] 24-05-2025 15:15:18 [main] [DreiverFactory.DriverFactory.setupDriver(DriverFactory.java:31)] - WebDriver initialized: EdgeDriver: MicrosoftEdge on windows (c8dc10d768513454e1c0ca3adb5d334c)
+[INFO] 24-05-2025 15:15:18 [main] [tests.T01_LoginTest.setup(T01_LoginTest.java:30)] - Edge driver is open 
+[INFO] 24-05-2025 15:18:18 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:35)] - Test Casesetupfailed
+[INFO] 24-05-2025 15:20:20 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:10)] - Test CasevalidloginTestStarted
+[INFO] 24-05-2025 15:20:20 [main] [Listeners.iTestResultListenerClass.onTestSkipped(iTestResultListenerClass.java:20)] - Test CasevalidloginTestskipped

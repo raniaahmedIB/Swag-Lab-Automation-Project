@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="finishing Suite">
+    <listeners>
+        <listener class-name="Listeners.IInvokedMethodListenerClass"/>
+        <listener class-name="Listeners.iTestResultListenerClass"/>
+    </listeners>
+    <test name="finishing test">
+        <classes>
+            <class name="tests.T06_finshingOrderTest"/>
+        </classes>
+    </test>
+
+</suite>

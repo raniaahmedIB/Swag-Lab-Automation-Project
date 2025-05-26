@@ -1,0 +1,10 @@
+[INFO] 12-05-2025 21:21:40 [main] [DreiverFactory.DriverFactory.setupDriver(DriverFactory.java:31)] - WebDriver initialized: EdgeDriver: MicrosoftEdge on windows (19cb038e68d08fe55de4047aa49f0ea8)
+[INFO] 12-05-2025 21:21:40 [main] [tests.T03_cartTest.setup(T03_cartTest.java:30)] - Edge driver is open 
+[INFO] 12-05-2025 21:21:41 [main] [tests.T03_cartTest.setup(T03_cartTest.java:32)] - Pge redirected to URl
+[INFO] 12-05-2025 21:21:42 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:10)] - Test CasecomparingPricingStarted
+[INFO] 12-05-2025 21:21:42 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:71)] - random Number :2
+[INFO] 12-05-2025 21:21:42 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:71)] - random Number :5
+[INFO] 12-05-2025 21:21:43 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:71)] - random Number :6
+[INFO] 12-05-2025 21:21:43 [main] [pages.P02_landingPage.getTotalPriceOfSelectedProducts(P02_landingPage.java:104)] - total price:33.97
+[INFO] 12-05-2025 21:21:44 [main] [pages.P03_cartPage.getTotalPrice(P03_cartPage.java:28)] - total price:33.97
+[INFO] 12-05-2025 21:21:44 [main] [Listeners.iTestResultListenerClass.onTestSuccess(iTestResultListenerClass.java:14)] - Test CasecomparingPricingpassed

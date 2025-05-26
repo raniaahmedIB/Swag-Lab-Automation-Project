@@ -1,0 +1,17 @@
+[INFO] 14-05-2025 15:48:52 [main] [DreiverFactory.DriverFactory.setupDriver(DriverFactory.java:31)] - WebDriver initialized: EdgeDriver: MicrosoftEdge on windows (beff00b36f80e9dcac3ccb64f6a74c07)
+[INFO] 14-05-2025 15:48:52 [main] [DreiverFactory.DriverFactory.setupDriver(DriverFactory.java:31)] - WebDriver initialized: EdgeDriver: MicrosoftEdge on windows (c0e3d7814fb50914051b4ee3178a767e)
+[INFO] 14-05-2025 15:48:52 [main] [tests.T06_finshingOrderTest.setup(T06_finshingOrderTest.java:36)] - Edge driver is open 
+[INFO] 14-05-2025 15:48:52 [main] [tests.T06_finshingOrderTest.setup(T06_finshingOrderTest.java:36)] - Edge driver is open 
+[INFO] 14-05-2025 15:48:52 [main] [tests.T06_finshingOrderTest.setup(T06_finshingOrderTest.java:38)] - Pge redirected to URl
+[INFO] 14-05-2025 15:48:53 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:10)] - Test CasecheckoutAllProductsTCStarted
+[INFO] 14-05-2025 15:48:55 [main] [tests.T06_finshingOrderTest.setup(T06_finshingOrderTest.java:38)] - Pge redirected to URl
+[INFO] 14-05-2025 15:48:56 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:10)] - Test CasecheckoutTwoTCStarted
+[INFO] 14-05-2025 15:48:58 [main] [pages.P02_landingPage.addAllProductToCart(P02_landingPage.java:33)] - number of all products:6
+[INFO] 14-05-2025 15:48:59 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:68)] - random Number :1
+[INFO] 14-05-2025 15:49:00 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:68)] - random Number :4
+[INFO] 14-05-2025 15:49:02 [main] [pages.P02_landingPage.addRandomNumber(P02_landingPage.java:68)] - random Number :5
+[INFO] 14-05-2025 15:49:13 [main] [tests.T06_finshingOrderTest.checkoutAllProductsTC(T06_finshingOrderTest.java:71)] - fTest-2025-05-14-3-48-20-PM lTest-2025-05-14-3-48-20-PM 86284
+[INFO] 14-05-2025 15:49:15 [main] [pages.P05_overViewPage.calculatedTotalPrice(P05_overViewPage.java:35)] - calculated total price :140.34
+[INFO] 14-05-2025 15:49:18 [main] [pages.P05_overViewPage.getTotal(P05_overViewPage.java:29)] - actual total price :140.34
+[INFO] 14-05-2025 15:49:19 [main] [Listeners.iTestResultListenerClass.onTestSuccess(iTestResultListenerClass.java:14)] - Test CasecheckoutAllProductsTCpassed
+[INFO] 14-05-2025 15:49:33 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:22)] - Test CasecheckoutTwoTCfailed

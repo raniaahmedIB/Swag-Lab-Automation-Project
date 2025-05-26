@@ -1,0 +1,6 @@
+[INFO] 22-05-2025 16:15:21 [main] [tests.T01_LoginTest.setup(T01_LoginTest.java:28)] - chrome
+[INFO] 22-05-2025 16:15:37 [main] [DreiverFactory.DriverFactory.setupDriver(DriverFactory.java:31)] - WebDriver initialized: ChromeDriver: chrome on windows (ccb62c49430bc52d74592fbac25a4af4)
+[INFO] 22-05-2025 16:15:37 [main] [tests.T01_LoginTest.setup(T01_LoginTest.java:30)] - Edge driver is open 
+[INFO] 22-05-2025 16:15:38 [main] [tests.T01_LoginTest.setup(T01_LoginTest.java:32)] - Pge redirected to URl
+[INFO] 22-05-2025 16:15:38 [main] [Listeners.iTestResultListenerClass.onTestStart(iTestResultListenerClass.java:10)] - Test CasevalidloginTestStarted
+[INFO] 22-05-2025 16:15:39 [main] [Listeners.iTestResultListenerClass.onTestSuccess(iTestResultListenerClass.java:14)] - Test CasevalidloginTestpassed
